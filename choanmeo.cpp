@@ -1,1 +1,0 @@
-cout<<"day la c++"
